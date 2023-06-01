@@ -1,0 +1,28 @@
+{
+  "categories": [
+    {
+      "logo": "https://i.ibb.co/YtftCWk/accounts-1.png",
+      "name": "Account & Finance",
+      "jobs": 300,
+      "id": 45
+    },
+    {
+      "logo": "https://i.ibb.co/xLwSgrV/business-1.png",
+      "name": "Creative Design",
+      "jobs": 100,
+      "id": 46
+    },
+    {
+      "logo": "https://i.ibb.co/KbhddYz/chip-1.png",
+      "name": "Marketing & Sales",
+      "jobs": 150,
+      "id": 47
+    },
+    {
+      "logo": "https://i.ibb.co/jfMFXGt/social-media-1.png",
+      "name": "Engineering Job",
+      "jobs": 224,
+      "id": 48
+    }
+  ]
+}
